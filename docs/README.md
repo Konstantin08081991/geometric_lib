@@ -1,4 +1,4 @@
-
+0
 # How to use calculator:
 1. Run `python calculate.py`
 2. Enter the figure name. Available are Circle, Square.
@@ -19,3 +19,4 @@
 - Square: `P = 4a`
 - Triangle: `P = a + b + c`
 
+)))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))
